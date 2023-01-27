@@ -127,6 +127,8 @@ Publish the website in the given URL.
 
 ## OUTPUT:
 ![img](calop.png)
+###Validator:
+![img](valcal.png)
 
 ## Result:
 The program for designing a simple calculator using Javascript is executed successfully.
